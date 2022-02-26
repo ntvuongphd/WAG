@@ -9,9 +9,6 @@
 RPTSCHED                               -- Generated : Petrel
   FIP WELLS /
 
-RPTRST                                 -- Generated : Petrel
-  BASIC=6 FREQ /
-
 SKIP                                   -- Generated : Petrel
 --Hint: Select wells on the input tree, drop in with the blue arrow, then add rules with the rule pop-up
 
