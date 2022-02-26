@@ -8,9 +8,6 @@
 
 RUNSPEC
 
-SATOPTS                                -- Generated : Petrel
-  HYSTER /
-
 ROCKCOMP                               -- Generated : Petrel
   1* 1 /
 
