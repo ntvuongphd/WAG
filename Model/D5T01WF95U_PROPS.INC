@@ -6,6 +6,8 @@
 -- Project     : 40402.pet
 -- Generated ]
 
+EHYSTR
+/
 
 ROCKTAB                                -- Generated : Petrel
       172.0000      0.99979         1.00
