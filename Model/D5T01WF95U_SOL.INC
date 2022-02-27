@@ -9,9 +9,6 @@
 EQUIL                                  -- Generated : Petrel
           3500          310         4500            0         3500            0 0 0 0 /
 
-RPTRST                                 -- Generated : Petrel
-  BASIC=6 /
-
 RPTSOL                                 -- Generated : Petrel
   RESTART=2 FIP /
 
