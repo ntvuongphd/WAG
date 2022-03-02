@@ -169,46 +169,53 @@
                 
                 "Controls": [
                     {
-                        "BHP": 120,
+                        "BHP": 470,
                         "IsVariable": true,
                         "Mode": "BHP",
-                        "Rate": 5000,
-                        "TimeStep": 0
+                        "Rate": 2000,
+                        "TimeStep": 17056
                     },
                     {
-                        "BHP": 120,
+                        "BHP": 470,
                         "IsVariable": true,
                         "Mode": "BHP",
-                        "Rate": 5000,
-                        "TimeStep": 730
+                        "Rate": 2000,
+                        "TimeStep": 17421
                     },
                     {
-                        "BHP": 120,
+                        "BHP": 470,
                         "IsVariable": true,
                         "Mode": "BHP",
-                        "Rate": 5000,
-                        "TimeStep": 1460
+                        "Rate": 2000,
+                        "TimeStep": 17787
                     },
                     {
-                        "BHP": 120,
+                        "BHP": 470,
                         "IsVariable": true,
                         "Mode": "BHP",
-                        "Rate": 5000,
-                        "TimeStep": 2190
+                        "Rate": 2000,
+                        "TimeStep": 17863
                     },
                     {
-                        "BHP": 120,
+                        "BHP": 470,
                         "IsVariable": true,
                         "Mode": "BHP",
-                        "Rate": 5000,
-                        "TimeStep": 2920
+                        "Rate": 2000,
+                        "TimeStep": 18517
                     },
                     {
-                        "BHP": 120,
+                        "BHP": 470,
                         "IsVariable": true,
                         "Mode": "BHP",
-                        "Rate": 5000,
-                        "TimeStep": 3650
+                        "Rate": 2000,
+                        "TimeStep": 18623
+                    },
+                    {
+                        "BHP": 470,
+                        "IsVariable": true,
+                        "Mode": "BHP",
+                        "Rate": 2000,
+                        "TimeStep": 18655
                     }
                 ],
                 "DefinitionType": "WellSpline",
@@ -237,19 +244,39 @@
     "Optimizer": {
         "Constraints": [
             {
-                "Max": 280,
-                "Min": 160,
-                "Type": "BHP",
-                "Wells": [
-                    "INJ1"
-                ]
-            },
-            {
-                "Max": 160,
+                "Max": 650,
                 "Min": 80,
                 "Type": "BHP",
                 "Wells": [
-                    "PROD1"
+                    "TOR WELL"
+                ]
+            },
+            {
+                "Max": 650,
+                "Min": 80,
+                "Type": "BHP",
+                "Wells": [
+                    "GAS WELL"
+                ]
+            },
+            {
+                "Max": 650,
+                "Min": 80,
+                "Type": "BHP",
+                "Wells": [
+                    "CER WELL"
+                ]
+            },
+            {
+                "BoxImin": 650,
+                "BoxImax": 80,
+                "BoxJmin": 650,
+                "BoxJmax": 80,
+                "BoxKmin": 650,
+                "BoxKmax": 80
+                "Type": "ReservoirBoundary",
+                "Wells": [
+                    "CER WELL"
                 ]
             }
         ],
