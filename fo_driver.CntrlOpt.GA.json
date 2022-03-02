@@ -1,23 +1,17 @@
 {
     "Global": {
         "BookkeeperTolerance": 1e-08,
-        "Name": "2D2WMODEL"
+        "Name": "D5T01WF95U"
     },
     "Model": {
         "ControlTimes": [
-            0,
-            365,
-            730,
-            1095,
-            1460,
-            1825,
-            2190,
-            2555,
-            2920,
-            3285,
-            3650,
-            4015, 
-            4380
+            17056,
+            17421,
+            17787,
+            17863,
+            18517,
+            18623,
+            18655
         ],
         "Reservoir": {
             "Type": "Flow"
@@ -26,61 +20,68 @@
             {
                 "Controls": [
                     {
-                        "BHP": 240,
+                        "BHP": 460,
                         "IsVariable": true,
-                        "Mode": "BHP",
-                        "Rate": 5000,
-                        "TimeStep": 0
+                        "Mode": "Rate",
+                        "Rate": 2500,
+                        "TimeStep": 17056
                     },
                     {
-                        "BHP": 240,
+                        "BHP": 460,
                         "IsVariable": true,
-                        "Mode": "BHP",
-                        "Rate": 5000,
-                        "TimeStep": 730
+                        "Mode": "Rate",
+                        "Rate": 2500,
+                        "TimeStep": 17421
                     },
                     {
-                        "BHP": 240,
+                        "BHP": 460,
                         "IsVariable": true,
-                        "Mode": "BHP",
-                        "Rate": 5000,
-                        "TimeStep": 1460
+                        "Mode": "Rate",
+                        "Rate": 2500,
+                        "TimeStep": 17787
                     },
                     {
-                        "BHP": 240,
+                        "BHP": 460,
                         "IsVariable": true,
-                        "Mode": "BHP",
-                        "Rate": 5000,
-                        "TimeStep": 2190
+                        "Mode": "Rate",
+                        "Rate": 2500,
+                        "TimeStep": 17863
                     },
                     {
-                        "BHP": 240,
+                        "BHP": 460,
                         "IsVariable": true,
-                        "Mode": "BHP",
-                        "Rate": 5000,
-                        "TimeStep": 2920
+                        "Mode": "Rate",
+                        "Rate": 2500,
+                        "TimeStep": 18517
                     },
                     {
-                        "BHP": 240,
+                        "BHP": 460,
                         "IsVariable": true,
-                        "Mode": "BHP",
-                        "Rate": 5000,
-                        "TimeStep": 3650
+                        "Mode": "Rate",
+                        "Rate": 2500,
+                        "TimeStep": 18623
+                    }
+                    {
+                        "BHP": 460,
+                        "IsVariable": true,
+                        "Mode": "Rate",
+                        "Rate": 2500,
+                        "TimeStep": 18655
                     }
                 ],
                 "DefinitionType": "WellSpline",
                 "Group": "G1",
-                "Name": "INJ1",
+                "Name": "TOR WELL",
                 "PreferredPhase": "Water",
                 "SplinePointArray": [
                     {
-                        "IsVariable": false,
+                        "IsVariable": true,
                         "x": 33.0,
                         "y": 33.0,
                         "z": 1710.5
                     },
                     {
-                        "IsVariable": false,
+                        "IsVariable": true,
                         "x": 33.0,
                         "y": 33.0,
                         "z": 1722.5
@@ -92,6 +93,82 @@
             {
                 "Controls": [
                     {
+                        "BHP": 460,
+                        "IsVariable": true,
+                        "Mode": "Rate",
+                        "Rate": 2500,
+                        "TimeStep": 17056
+                    },
+                    {
+                        "BHP": 460,
+                        "IsVariable": true,
+                        "Mode": "Rate",
+                        "Rate": 2500,
+                        "TimeStep": 17421
+                    },
+                    {
+                        "BHP": 460,
+                        "IsVariable": true,
+                        "Mode": "Rate",
+                        "Rate": 2500,
+                        "TimeStep": 17787
+                    },
+                    {
+                        "BHP": 460,
+                        "IsVariable": true,
+                        "Mode": "Rate",
+                        "Rate": 2500,
+                        "TimeStep": 17863
+                    },
+                    {
+                        "BHP": 460,
+                        "IsVariable": true,
+                        "Mode": "Rate",
+                        "Rate": 2500,
+                        "TimeStep": 18517
+                    },
+                    {
+                        "BHP": 460,
+                        "IsVariable": true,
+                        "Mode": "Rate",
+                        "Rate": 2500,
+                        "TimeStep": 18623
+                    }
+                    {
+                        "BHP": 460,
+                        "IsVariable": true,
+                        "Mode": "Rate",
+                        "Rate": 2500,
+                        "TimeStep": 18655
+                    }
+                ],
+                "DefinitionType": "WellSpline",
+                "Group": "G2",
+                "Name": "GAS WELL",
+                "PreferredPhase": "Gas",
+                "SplinePointArray": [
+                    {
+                        "IsVariable": true,
+                        "x": 33.0,
+                        "y": 33.0,
+                        "z": 1710.5
+                    },
+                    {
+                        "IsVariable": true,
+                        "x": 33.0,
+                        "y": 33.0,
+                        "z": 1722.5
+                    }
+                ],
+                "Type": "Injector",
+                "WellboreRadius": 0.1905
+            },
+            {
+                
+         //       
+                
+                "Controls": [
+                    {
                         "BHP": 120,
                         "IsVariable": true,
                         "Mode": "BHP",
@@ -135,18 +212,18 @@
                     }
                 ],
                 "DefinitionType": "WellSpline",
-                "Group": "G2",
-                "Name": "PROD1",
+                "Group": "G3",
+                "Name": "CER WELL",
                 "PreferredPhase": "Oil",
                 "SplinePointArray": [
                     {
-                        "IsVariable": false,
+                        "IsVariable": true,
                         "x": 253.0,
                         "y": 256.0,
                         "z": 1703.0
                     },
                     {
-                        "IsVariable": false,
+                        "IsVariable": true,
                         "x": 253.0,
                         "y": 256.0,
                         "z": 1718.0
