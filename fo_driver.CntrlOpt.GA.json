@@ -225,9 +225,9 @@
                 "SplinePointArray": [
                     {
                         "IsVariable": true,
-                        "x": 253.0,
-                        "y": 256.0,
-                        "z": 1703.0
+                        "x": 600.0,
+                        "y": 3800.0,
+                        "z": 4500.0
                     },
                     {
                         "IsVariable": true,
@@ -268,12 +268,12 @@
                 ]
             },
             {
-                "BoxImin": 650,
-                "BoxImax": 80,
-                "BoxJmin": 650,
-                "BoxJmax": 80,
-                "BoxKmin": 650,
-                "BoxKmax": 80
+                "BoxImin": 1,
+                "BoxImax": 25,
+                "BoxJmin": 1,
+                "BoxJmax": 100,
+                "BoxKmin": 1,
+                "BoxKmax": 43
                 "Type": "ReservoirBoundary",
                 "Wells": [
                     "CER WELL", "TOR WELL", " GAS WELL"
