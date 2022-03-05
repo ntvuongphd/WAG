@@ -78,13 +78,13 @@
                         "IsVariable": true,
                         "x": 33.0,
                         "y": 33.0,
-                        "z": 1710.5
+                        "z": 0
                     },
                     {
                         "IsVariable": true,
                         "x": 33.0,
                         "y": 33.0,
-                        "z": 1722.5
+                        "z": 4200
                     }
                 ],
                 "Type": "Injector",
@@ -151,22 +151,19 @@
                         "IsVariable": true,
                         "x": 33.0,
                         "y": 33.0,
-                        "z": 1710.5
+                        "z": 0
                     },
                     {
                         "IsVariable": true,
                         "x": 33.0,
                         "y": 33.0,
-                        "z": 1722.5
+                        "z": 4200
                     }
                 ],
                 "Type": "Injector",
                 "WellboreRadius": 0.1905
             },
-            {
-                
-         //       
-                
+            {         
                 "Controls": [
                     {
                         "BHP": 470,
@@ -227,13 +224,13 @@
                         "IsVariable": true,
                         "x": 600.0,
                         "y": 3800.0,
-                        "z": 4500.0
+                        "z": 0
                     },
                     {
                         "IsVariable": true,
                         "x": 253.0,
                         "y": 256.0,
-                        "z": 1718.0
+                        "z": 4500
                     }
                 ],
                 "Type": "Producer",
