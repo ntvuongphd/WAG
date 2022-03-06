@@ -281,7 +281,7 @@
         "Objective": {
             "NPVComponents": [
                 {
-                    "COMMENT": "Coefficient: 60 $/barrel * 6.2898 barrel/sm3 = 377.388",
+                    "COMMENT": "Coefficient: 80 $/barrel * 6.2898 barrel/sm3 = 377.388",
                     "Coefficient": 377.388,
                     "DiscountFactor": 0.08,
                     "Interval": "Yearly",
