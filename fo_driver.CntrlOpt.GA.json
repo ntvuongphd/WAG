@@ -78,13 +78,13 @@
                         "IsVariable": true,
                         "x": 33.0,
                         "y": 33.0,
-                        "z": 0
+                        "z": 4017.44
                     },
                     {
                         "IsVariable": true,
                         "x": 33.0,
                         "y": 33.0,
-                        "z": 4200
+                        "z": 4097.49
                     }
                 ],
                 "Type": "Injector",
@@ -151,13 +151,13 @@
                         "IsVariable": true,
                         "x": 33.0,
                         "y": 33.0,
-                        "z": 0
+                        "z": 4017.44
                     },
                     {
                         "IsVariable": true,
                         "x": 33.0,
                         "y": 33.0,
-                        "z": 4200
+                        "z": 4097.49
                     }
                 ],
                 "Type": "Injector",
@@ -224,13 +224,13 @@
                         "IsVariable": true,
                         "x": 600.0,
                         "y": 3800.0,
-                        "z": 0
+                        "z": 4332.46
                     },
                     {
                         "IsVariable": true,
                         "x": 253.0,
                         "y": 256.0,
-                        "z": 4500
+                        "z": 4412.46
                     }
                 ],
                 "Type": "Producer",
