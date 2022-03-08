@@ -331,7 +331,7 @@
     "Simulator": {
         "ExecutionScript": "bash_flw-bin",
         "FluidModel": "BlackOil",
-        "ScheduleFile": "Model/D5T01WF95U_SCH.INC",
+        "ScheduleFile": "D5T01WF95U_SCH.INC",
         "Type": "Flow"
     }
 }
