@@ -133,7 +133,7 @@
                         "Mode": "Rate",
                         "Rate": 2500,
                         "TimeStep": 18623
-                    }
+                    },
                     {
                         "BHP": 460,
                         "IsVariable": true,
