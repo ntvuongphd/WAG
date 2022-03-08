@@ -273,7 +273,7 @@
                 "BoxKmax": 43
                 "Type": "ReservoirBoundary",
                 "Wells": [
-                    "CER WELL", "TOR WELL", " GAS WELL"
+                    "CER WELL", "TOR WELL", "GAS WELL"
                 ]
             }
         ],
