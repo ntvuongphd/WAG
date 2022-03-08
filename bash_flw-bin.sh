@@ -10,4 +10,4 @@
 cd $1
 
 # Execute Flow with the file path as parameter
-exec /home/vagrant/bin/flow $2 >/dev/null
+exec /usr/bin/flow $2 >/dev/null
