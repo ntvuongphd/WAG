@@ -241,7 +241,7 @@
     "Optimizer": {
         "Constraints": [
             {
-                "Max": 650,
+                "Max": 700,
                 "Min": 80,
                 "Type": "BHP",
                 "Wells": [
@@ -249,7 +249,7 @@
                 ]
             },
             {
-                "Max": 650,
+                "Max": 700,
                 "Min": 80,
                 "Type": "BHP",
                 "Wells": [
@@ -257,7 +257,7 @@
                 ]
             },
             {
-                "Max": 650,
+                "Max": 700,
                 "Min": 80,
                 "Type": "BHP",
                 "Wells": [
@@ -266,11 +266,11 @@
             },
             {
                 "BoxImin": 1,
-                "BoxImax": 25,
+                "BoxImax": 30,
                 "BoxJmin": 1,
-                "BoxJmax": 100,
+                "BoxJmax": 105,
                 "BoxKmin": 1,
-                "BoxKmax": 43,
+                "BoxKmax": 50,
                 "Type": "ReservoirBoundary",
                 "Wells": [
                     "CER WELL", "TOR WELL", "GAS WELL"
