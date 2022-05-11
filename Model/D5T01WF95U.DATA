@@ -62,9 +62,6 @@ UNIFIN
 UNIFOUT
 
 GRID
-INIT
-GRIDFILE
-2 /
   
 INCLUDE                                -- Generated : Petrel
 'D5T01WF95U_GRID.INC' /
