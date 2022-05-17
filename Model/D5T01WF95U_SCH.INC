@@ -824,6 +824,388 @@ VFPPROD                                -- Generated : Petrel
   6 8 8 1
   4.97755971E+002 4.96999685E+002 4.96784638E+002 4.97080285E+002 4.99321357E+002 5.03136364E+002 5.08385067E+002 5.15027062E+002 /
 
+COMPDAT                                -- Generated : Petrel
+  'TOR WELL' 10 96 1 1 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 2 2 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 3 3 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 4 4 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 5 5 OPEN 1* 3.5871E+000 0.19050 296.02 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 6 6 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 7 7 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 8 8 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 9 9 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 10 10 OPEN 1* 3.5828E+000 0.19050 295.66 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 12 12 OPEN 1* 3.5754E+000 0.19050 295.04 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 13 13 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 14 14 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 15 15 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 16 16 OPEN 1* 3.5871E+000 0.19050 296.02 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 17 17 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 18 18 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 19 19 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 20 20 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 21 21 OPEN 1* 3.5394E+000 0.19050 292.08 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 23 23 OPEN 1* 3.5648E+000 0.19050 294.18 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 24 24 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 25 25 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 26 26 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 27 27 OPEN 1* 3.5871E+000 0.19050 296.02 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 28 28 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 29 29 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 30 30 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 31 31 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 32 32 OPEN 1* 3.5835E+000 0.19050 295.71 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 34 34 OPEN 1* 3.6145E+000 0.19050 298.28 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 35 35 OPEN 1* 3.6230E+000 0.19050 298.97 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 36 36 OPEN 1* 3.6230E+000 0.19050 298.97 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 37 37 OPEN 1* 3.6230E+000 0.19050 298.97 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 38 38 OPEN 1* 3.6225E+000 0.19050 298.94 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 39 39 OPEN 1* 3.6230E+000 0.19050 298.97 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 40 40 OPEN 1* 3.6230E+000 0.19050 298.97 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 41 41 OPEN 1* 3.6230E+000 0.19050 298.97 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 42 42 OPEN 1* 3.6230E+000 0.19050 298.97 0.00 1* Z 7.92 /
+  'TOR WELL' 10 96 43 43 OPEN 1* 3.6028E+000 0.19050 297.31 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 1 1 OPEN 1* 3.5863E+000 0.19050 295.95 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 2 2 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 3 3 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 4 4 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 5 5 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 6 6 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 7 7 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 8 8 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 9 9 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 10 10 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 12 12 OPEN 1* 3.5816E+000 0.19050 295.56 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 13 13 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 14 14 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 15 15 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 16 16 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 17 17 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 18 18 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 19 19 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 20 20 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 21 21 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 23 23 OPEN 1* 3.5770E+000 0.19050 295.18 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 24 24 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 25 25 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 26 26 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 27 27 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 28 28 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 29 29 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 30 30 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 31 31 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 32 32 OPEN 1* 3.5867E+000 0.19050 295.98 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 34 34 OPEN 1* 3.6184E+000 0.19050 298.59 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 35 35 OPEN 1* 3.6230E+000 0.19050 298.97 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 36 36 OPEN 1* 3.6230E+000 0.19050 298.97 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 37 37 OPEN 1* 3.6230E+000 0.19050 298.97 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 38 38 OPEN 1* 3.6230E+000 0.19050 298.97 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 39 39 OPEN 1* 3.6230E+000 0.19050 298.97 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 40 40 OPEN 1* 3.6230E+000 0.19050 298.97 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 41 41 OPEN 1* 3.6230E+000 0.19050 298.97 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 42 42 OPEN 1* 3.6230E+000 0.19050 298.97 0.00 1* Z 7.92 /
+  'CER WELL' 15 6 43 43 OPEN 1* 3.6230E+000 0.19050 298.97 0.00 1* Z 7.92 /
+  /
+
+COMPLUMP                               -- Generated : Petrel
+--'Injector Well:Perforation 1': 1
+--'Injector Well:Perforation 2': 2
+--'Injector Well:Perforation 3': 3
+--'Injector Well:Perforation 4': 4
+--'Producer Well:Perforation 1': 1
+--'Producer Well:Perforation 2': 2
+--'Producer Well:Perforation 3': 3
+--'Producer Well:Perforation 4': 4
+--
+  'TOR WELL' 10 96 1 1 1 /
+  'TOR WELL' 10 96 2 2 1 /
+  'TOR WELL' 10 96 3 3 1 /
+  'TOR WELL' 10 96 4 4 1 /
+  'TOR WELL' 10 96 5 5 1 /
+  'TOR WELL' 10 96 6 6 1 /
+  'TOR WELL' 10 96 7 7 1 /
+  'TOR WELL' 10 96 8 8 1 /
+  'TOR WELL' 10 96 9 9 1 /
+  'TOR WELL' 10 96 10 10 1 /
+  'TOR WELL' 10 96 12 12 2 /
+  'TOR WELL' 10 96 13 13 2 /
+  'TOR WELL' 10 96 14 14 2 /
+  'TOR WELL' 10 96 15 15 2 /
+  'TOR WELL' 10 96 16 16 2 /
+  'TOR WELL' 10 96 17 17 2 /
+  'TOR WELL' 10 96 18 18 2 /
+  'TOR WELL' 10 96 19 19 2 /
+  'TOR WELL' 10 96 20 20 2 /
+  'TOR WELL' 10 96 21 21 2 /
+  'TOR WELL' 10 96 23 23 3 /
+  'TOR WELL' 10 96 24 24 3 /
+  'TOR WELL' 10 96 25 25 3 /
+  'TOR WELL' 10 96 26 26 3 /
+  'TOR WELL' 10 96 27 27 3 /
+  'TOR WELL' 10 96 28 28 3 /
+  'TOR WELL' 10 96 29 29 3 /
+  'TOR WELL' 10 96 30 30 3 /
+  'TOR WELL' 10 96 31 31 3 /
+  'TOR WELL' 10 96 32 32 3 /
+  'TOR WELL' 10 96 34 34 4 /
+  'TOR WELL' 10 96 35 35 4 /
+  'TOR WELL' 10 96 36 36 4 /
+  'TOR WELL' 10 96 37 37 4 /
+  'TOR WELL' 10 96 38 38 4 /
+  'TOR WELL' 10 96 39 39 4 /
+  'TOR WELL' 10 96 40 40 4 /
+  'TOR WELL' 10 96 41 41 4 /
+  'TOR WELL' 10 96 42 42 4 /
+  'TOR WELL' 10 96 43 43 4 /
+  'CER WELL' 15 6 1 1 1 /
+  'CER WELL' 15 6 2 2 1 /
+  'CER WELL' 15 6 3 3 1 /
+  'CER WELL' 15 6 4 4 1 /
+  'CER WELL' 15 6 5 5 1 /
+  'CER WELL' 15 6 6 6 1 /
+  'CER WELL' 15 6 7 7 1 /
+  'CER WELL' 15 6 8 8 1 /
+  'CER WELL' 15 6 9 9 1 /
+  'CER WELL' 15 6 10 10 1 /
+  'CER WELL' 15 6 12 12 2 /
+  'CER WELL' 15 6 13 13 2 /
+  'CER WELL' 15 6 14 14 2 /
+  'CER WELL' 15 6 15 15 2 /
+  'CER WELL' 15 6 16 16 2 /
+  'CER WELL' 15 6 17 17 2 /
+  'CER WELL' 15 6 18 18 2 /
+  'CER WELL' 15 6 19 19 2 /
+  'CER WELL' 15 6 20 20 2 /
+  'CER WELL' 15 6 21 21 2 /
+  'CER WELL' 15 6 23 23 3 /
+  'CER WELL' 15 6 24 24 3 /
+  'CER WELL' 15 6 25 25 3 /
+  'CER WELL' 15 6 26 26 3 /
+  'CER WELL' 15 6 27 27 3 /
+  'CER WELL' 15 6 28 28 3 /
+  'CER WELL' 15 6 29 29 3 /
+  'CER WELL' 15 6 30 30 3 /
+  'CER WELL' 15 6 31 31 3 /
+  'CER WELL' 15 6 32 32 3 /
+  'CER WELL' 15 6 34 34 4 /
+  'CER WELL' 15 6 35 35 4 /
+  'CER WELL' 15 6 36 36 4 /
+  'CER WELL' 15 6 37 37 4 /
+  'CER WELL' 15 6 38 38 4 /
+  'CER WELL' 15 6 39 39 4 /
+  'CER WELL' 15 6 40 40 4 /
+  'CER WELL' 15 6 41 41 4 /
+  'CER WELL' 15 6 42 42 4 /
+  'CER WELL' 15 6 43 43 4 /
+  /
+
+GRUPTREE                               -- Generated : Petrel
+  'GROUP 1' FIELD /
+  /
+
+WCONPROD
+  'CER WELL' 1* LRAT 5000 1* 1* 2000.00 1* 10 80.0000 1 /
+  /
+
+WCONINJE
+  'TOR WELL' WATER 1* GRUP 1* 1* 1* 1* 1 /
+  /
+
+WECON
+  'CER WELL' 20.00 1* 0.9500 1000.0000 1* CON 1* 1* RATE /
+  /
+
+GCONINJE
+ 'GROUP 1' WATER 1* 3200.00 1* 1* 1.2000 /  
+/
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2021 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2022 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2023 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2024 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2025 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2026 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2027 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2028 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2029 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2030 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2031 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2032 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2033 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2034 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2035 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2036 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2037 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2038 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2039 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2040 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2041 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2042 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2043 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2044 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2045 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2046 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2047 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2048 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2049 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2050 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2051 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2052 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2053 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2054 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2055 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2056 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2057 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2058 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2059 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2060 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2061 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2062 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2063 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2064 /
+  /
+
+DATES                                  -- Generated : Petrel
+  1 JAN 2065 /
+  /
+  
+DATES                                  -- Generated : Petrel
+  1 JAN 2066 /
+  /
+  
+DATES                                  -- Generated : Petrel
+  12 SEP 2066 /
+  /
 
 -- GAS CYCLE 1
 
@@ -895,7 +1277,7 @@ WECON                                  -- Generated : Petrel
   /
 
 DATES                                  -- Generated : Petrel
-  1 JAN 2021 /
+  12 SEP 2067 /
   /
 -- WATER CYCLE 1
 
@@ -924,7 +1306,7 @@ WECON                                  -- Generated : Petrel
   /
 
 DATES                                  -- Generated : Petrel
-  1 JAN 2022 /
+  12 SEP 2068 /
   /
 -- GAS CYCLE 2
 
@@ -953,7 +1335,7 @@ WECON                                  -- Generated : Petrel
   /
 
 DATES                                  -- Generated : Petrel
-  1 JAN 2023 /
+  27 NOV 2068 /
   /
   
 -- WATER CYCLE 2  
@@ -983,9 +1365,8 @@ WECON                                  -- Generated : Petrel
   /
 
 DATES                                  -- Generated : Petrel
-  1 JAN 2024 /
+  12 SEP 2070 /
   /
-  
 -- GAS CYCLE 3
 SKIP                                   -- Generated : Petrel
 --Hint: Select wells on the input tree, drop in with the blue arrow, then add rules with the rule pop-up
@@ -1012,7 +1393,7 @@ WECON                                  -- Generated : Petrel
   /
 
 DATES                                  -- Generated : Petrel
-  1 JAN 2025 /
+  27 DEC 2070 /
   /
 -- WATER CYCLE 3
 SKIP                                   -- Generated : Petrel
@@ -1040,5 +1421,5 @@ WECON                                  -- Generated : Petrel
   /
 
 DATES                                  -- Generated : Petrel
-  1 JAN 2026 /
-  /
+  28 JAN 2071 /
+  /  
