@@ -1,76 +1,45 @@
--- Generated [
--- Format      : ECLIPSE keywords (ASCII)
--- Exported by : Petrel 2016.1 (64-bit) Schlumberger
--- User name   : ntvuong
--- Date        : Wednesday, June 17 2020 15:20:44
--- Project     : 40402.pet
--- Generated ]
+SEPARATE
+RUNSUM
+RPTSMRY
+1 /
 
-FOEIW                                  -- Generated : Petrel
+SUMTHIN
+50 /
 
-FOEIG                                  -- Generated : Petrel
+-- FIELD RATES / CUMULATIVE
+FWCT         Field water cut
+FOE          Recovery factor (Field oil recovery):
+--           (OIP(initial) - OIP(now)) / OIP(initial)
+FGPR
+FOPR
+FWPR
+FLPR
 
-FOE                                    -- Generated : Petrel
+FGPT         Gas Production Total (Cumoil)
+FOPT         Oil Production Total (Cumoil)
+FWPT         Water Production Total (Cumwat)
+FLPT         Liquid Production Total (Cumwat)
+FWIT         Water Injection Total (Cumwat)
 
-FWGR                                   -- Generated : Petrel
+-- PRESSURE
+FPR          Field pressure
+FPRH         Field reservoir pressure (hydrocarbon?)
+FPRP         Field pressure weighted by pore volume
 
-FWCT                                   -- Generated : Petrel
+-- PORE VOLUME
+FRPV         Pore Volume at Reservoir
+FOPV         Pore Volume containing Oil
+FHPV         Pore volume containing hydrocardon
+FORMW        Total stock tank oil produced by water influx
 
-FRV                                    -- Generated : Petrel
-
-TIMESTEP                               -- Generated : Petrel
-
-FRS                                    -- Generated : Petrel
-
-FVPR                                   -- Generated : Petrel
-
-FVPT                                   -- Generated : Petrel
-
-FVIR                                   -- Generated : Petrel
-
-FVIT                                   -- Generated : Petrel
-
-FWPR                                   -- Generated : Petrel
-
-FOPR                                   -- Generated : Petrel
-
-FGPR                                   -- Generated : Petrel
-
-FWPT                                   -- Generated : Petrel
-
-FOPT                                   -- Generated : Petrel
-
-FGPT                                   -- Generated : Petrel
-
-FPR                                    -- Generated : Petrel
-
-FWIP                                   -- Generated : Petrel
-
-FOIPG                                  -- Generated : Petrel
-
-FGIPL                                  -- Generated : Petrel
-
-FOIP                                   -- Generated : Petrel
-
-FOIPL                                  -- Generated : Petrel
-
-FGIP                                   -- Generated : Petrel
-
-FGIPG                                  -- Generated : Petrel
-
-FWIR                                   -- Generated : Petrel
-
-FOIR                                   -- Generated : Petrel
-
-FGIR                                   -- Generated : Petrel
-
-FWIT                                   -- Generated : Petrel
-
-FOIT                                   -- Generated : Petrel
-
-FGIT                                   -- Generated : Petrel
-
-FGOR                                   -- Generated : Petrel
+-- INIT VOLUME
+FGIP         Gas init in place
+FGIPG        Gas init in place (gas phase)
+FGIPL        Gas init in place (liquid phase)
+FOIP         Oil init in place
+FOIPG        Oil init in place (gas phase)
+FOIPL        Oil init in place (liquid phase)
+FWIP         Water initially in place
 
 WBHP
 'GAS WELL' 'TOR WELL' 'CER WELL' /
@@ -134,7 +103,8 @@ WGPRH
 
 WLPRH
 /
+-- CURRENT CPU USAGE IN SECONDS
+TCPU         
+PERFORMA
 
-SUMTHIN                                -- Generated : Petrel
-  1 /
 
