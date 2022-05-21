@@ -43,8 +43,8 @@ WELSPECS
 --'CER WELL' is the simulation well name used to describe flow from 'Producer Well'
 --'TOR WELL' is the simulation well name used to describe flow from 'Injector Well'
 --
-  'CER WELL' 'GROUP 1' 10 96 1* OIL /
-  'TOR WELL' 'GROUP 1' 15 11 1* WATER /
+  'CER WELL' 'GROUP 1' 15 6 1* OIL /
+  'TOR WELL' 'GROUP 1' 10 96 1* WATER /
   /
 
 VFPPROD                                -- Generated : Petrel
